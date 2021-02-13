@@ -1,14 +1,14 @@
 {
   "name": "Context of Agile",
   "short_name": "Context of Agile",
-  "start_url": "/context-of-agile/",
-  "scope": "/context-of-agile/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/context-of-agile/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
