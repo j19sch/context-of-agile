@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://context-of-agile.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Context of Agile"
+
+theme = "book"
