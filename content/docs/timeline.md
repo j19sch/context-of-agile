@@ -8,17 +8,28 @@ draft: true
 # Timeline
 
 ## 1980s
-- 1986, 1 January: The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka
+When         | What      |     |
+------------ | --------- | --- |
+1986, Jan 1  | The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka | Introduces the term "scrum" in the context of product development.
+
 
 ## 1990s
-- 1999, October: Extreme Programming Explained by Kent Beck
+When         | What      |     |
+------------ | --------- | --- |
+1999, Oct    | Extreme Programming Explained by Kent Beck |
 
 ## 2000s
-- 2001, 11-13 February: Manifesto for Agile Software Development
+When         | What      |     |
+------------ | --------- | --- |
+2001, Feb 11- 13| Manifesto for Agile Software Development |
+2009         | The Scrum Guide |
 
 ## 2010s
-
-- 2016: Heart of Agile
-- 2016: Modern Agile
+When         | What      |     |
+------------ | --------- | --- |
+2016         | Heart of Agile |
+2016         | Modern Agile |
 
 ## 2020s
+When         | What      |     |
+------------ | --------- | --- |

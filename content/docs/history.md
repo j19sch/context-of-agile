@@ -5,7 +5,9 @@ date: 2021-02-14T09:39:11+01:00
 draft: true
 ---
 
-# History of the manifesto
+# History
+
+## History of the manifesto
 
 History: The Agile Manifesto - Jim Highsmith, 2001  
 https://agilemanifesto.org/history.html
