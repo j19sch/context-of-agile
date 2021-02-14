@@ -7,5 +7,5 @@ draft: false
 
 # After Agile
 
-- Lean
+- Lean (in software development)
 - DevOps
