@@ -18,8 +18,11 @@ https://www.scruminc.com/agile-manifesto-elaborated-2/
 
 
 ## By others
-The Power of Agile - Sarah Mei, 14 July 2018  
-https://www.youtube.com/watch?v=YL-6RCTywbc
+The Power in Agile - Sarah Mei, 14 July 2018  
+https://www.youtube.com/watch?v=YL-6RCTywbc  
+Critical examination of how the lack of diversity among the authors of the Agile Manifesto resulted in ignoring power dynamics and what that means for a practice like pair programming
+
 
 The Agile values 20 years later - Romeu Moura, 12 February 2021  
-https://medium.com/@Romeu/the-agile-values-20-years-later-63279a067d80
+https://medium.com/@Romeu/the-agile-values-20-years-later-63279a067d80  
+Deep dive into the four core values of Agile 20 years after the Manifesto
