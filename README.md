@@ -9,4 +9,4 @@ This site is built with [Hugo](https://gohugo.io/), using the [Book theme](https
 ## Running locally
 - install Hugo: https://gohugo.io/getting-started/installing/
 - clone this repo recursively, because of the theme
-- run the site locally with `hugo -D serve`
+- run the site locally with `hugo server -D`
