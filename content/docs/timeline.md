@@ -22,13 +22,22 @@ draft: false
 - Birth of Scrum  
 *Jeff Sutherland invents Scrum at a company called Easel after reading "The New New Product Development Game" (source: Sutherland2014, 32-33)*
 
+### 1994
+- Dynamic systems development method (DSDM)
+
 ### 1995
 - SCRUM development process paper  
 *Jeff Sutherland and Ken Schwaber present the "SCRUM development process" paper at an Assocation for Computing Machinery research conference (source: Sutherland2014, 33)*
 
 ### 1996
 - Mar 6: first Extreme Programming project  
-*start of first Extreme Programming project (source: Wells 1999)*
+*start of first Extreme Programming project at Chrysler (source: Wells 1999, Beck 2005, 125-129)*
+
+### 1997
+- Feature-driven development (FDD)
+
+### 1998
+- Crystal
 
 ### 1999
 - Oct: Extreme Programming Explained by Kent Beck  
@@ -40,6 +49,7 @@ draft: false
 ### 2001
 - Feb 11- 13: Manifesto for Agile Software Development   
 *gathering at The Lodge, Snowbird ski resort, Utah, USA from which the Manifesto emerged (source: Highsmith 2001)*
+- Agile Alliance founded
 
 
 ## 2010s
@@ -60,6 +70,7 @@ draft: false
 
 
 ## Sources
+- Beck 2005: Extreme Programming Explained, Second Edition by Kent Beck with Cynthia Andres
 - Highsmith 2001: https://agilemanifesto.org/history.html
 - Sutherland 2014: Scrum, The Art of Doing Twice the Work in Half the Time by Jeff Sutherland
 - Wells 1999: http://www.extremeprogramming.org/
