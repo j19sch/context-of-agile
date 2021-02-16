@@ -1,21 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Context of Agile</title><link>https://context-of-agile.org/</link><description>Recent content on Context of Agile</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 16:56:11 +0100</lastBuildDate><atom:link href="https://context-of-agile.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Before Agile</title><link>https://context-of-agile.org/docs/before-agile/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/before-agile/</guid><description>Before Agile # Waterfall # Managing the Development of Large Software Systems by Dr. Winston W Royce, August 1970
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Context of Agile</title><link>https://context-of-agile.org/</link><description>Recent content on Context of Agile</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 16:56:11 +0100</lastBuildDate><atom:link href="https://context-of-agile.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Before Agile</title><link>https://context-of-agile.org/docs/before-agile/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/before-agile/</guid><description>Before Agile # Managing the Development of Large Software Systems by Dr. Winston W Royce, August 1970
+Paper that is often cited as the origin of the waterfall model.
 The Leprechauns of Software Engineering by Laurent Bossavit, 2015
-Chapter 7: Who’s afraid of the Big Bad Waterfall?
+Chapter 7: Who’s afraid of the Big Bad Waterfall? argues that Royce inventing waterfall is a myth.
 Agile Converstations by Douglas Squirrel and Jeffrey Fredrick, 2020
-Chapter 1: Escaping the Software Factory</description></item><item><title>Timeline</title><link>https://context-of-agile.org/docs/timeline/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/timeline/</guid><description>Timeline # 1980s # 1986 # Jan 1: The New New Product Development Game
+Chapter 1: Escaping the Software Factory has a few pages on software development in the nineties.</description></item><item><title>Timeline</title><link>https://context-of-agile.org/docs/timeline/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/timeline/</guid><description>Timeline # 1980s # 1986 # Jan 1: The New New Product Development Game
 Hirotaka Takeuchi and Ikujiro Nonaka publish their article &amp;ldquo;The New New Product Development Game&amp;rdquo;, which introduces the term &amp;ldquo;scrum&amp;rdquo; in the context of product development. 1990s # 1993 # Birth of Scrum
 Jeff Sutherland invents Scrum at a company called Easel after reading &amp;ldquo;The New New Product Development Game&amp;rdquo; (source: Sutherland2014, 32-33) 1994 # Dynamic systems development method (DSDM) 1995 # SCRUM development process paper</description></item><item><title>History</title><link>https://context-of-agile.org/docs/history/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/history/</guid><description>History # History of the manifesto # History: The Agile Manifesto - Jim Highsmith, 2001
 https://agilemanifesto.org/history.html
+History page on the Agile Manifesto site
 How The Agile Manifesto Came To Be - Jeff Sutherland. 11 February 2021
 https://www.scruminc.com/how-the-agile-manifesto-came-to-be/
-https://www.youtube.com/watch?v=AGdi3zZutXk</description></item><item><title>Commentaries</title><link>https://context-of-agile.org/docs/commentaries/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/commentaries/</guid><description>Commentaries # By one of the authors # Artisanal Retro-Futurism Team-Scale Anarcho-Syndicalism - Brian Marick, 15-16 June 2009
-https://www.youtube.com/watch?v=T5yv-WcQ4wY
+https://www.youtube.com/watch?v=AGdi3zZutXk
+Jeff Sutherland describes how the Agile Manifesto came to be, 20 years later.</description></item><item><title>Commentaries</title><link>https://context-of-agile.org/docs/commentaries/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/commentaries/</guid><description>Commentaries # By one of the authors # Artisanal Retro-Futurism Team-Scale Anarcho-Syndicalism - Brian Marick, 15-16 June 2009
+https://www.youtube.com/watch?v=T5yv-WcQ4wY (audio improves at 3:20)
 http://arxta.net/explanation.html
+Brian Marick about how the core of Agile has gone missing in the 2000s and what that core is/was.
 The Agile Manifesto, Elaborated - Jeff Sutherland, 20 April 2012
 https://www.scruminc.com/agile-manifesto-elaborated-2/
-By others # The Power in Agile - Sarah Mei, 14 July 2018
-https://www.youtube.com/watch?v=YL-6RCTywbc
-Critical examination of how the lack of diversity among the authors of the Agile Manifesto resulted in ignoring power dynamics and what that means for a practice like pair programming</description></item><item><title>Methodologies</title><link>https://context-of-agile.org/docs/methodologies/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/methodologies/</guid><description>Methodologies # Adaptive Software Development Crystal DSDM Extreme Programming Feature-Driven Development Kanban Lean Software Development Pragmatic Programming SAFe Scrum Scrumban</description></item><item><title>Reframings</title><link>https://context-of-agile.org/docs/reframings/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/reframings/</guid><description>Reframings # Modern Agile
+Part of &amp;ldquo;Agile Principles and Values&amp;rdquo; by Jeff Sutherland. The discrepancy in publishing dates suggests at least one of them is incorrect.</description></item><item><title>Methodologies</title><link>https://context-of-agile.org/docs/methodologies/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/methodologies/</guid><description>Methodologies # Adaptive Software Development Crystal DSDM Extreme Programming Feature-Driven Development Kanban Lean Software Development Pragmatic Programming SAFe Scrum Scrumban</description></item><item><title>Reframings</title><link>https://context-of-agile.org/docs/reframings/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/reframings/</guid><description>Reframings # Modern Agile
 https://modernagile.org/
+Reframing by Joshua Kerievsky based on four guiding principles:
+- Make People Awesome
+- Make Safety a Prerequisite
+- Experiment &amp;amp; Learn Rapidly
+- Deliver Value Continuously
 Heart of Agile
-https://heartofagile.com/</description></item><item><title>After Agile</title><link>https://context-of-agile.org/docs/after-agile/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/after-agile/</guid><description>After Agile # Lean (in software development) DevOps</description></item></channel></rss>
+https://heartofagile.com/
+Reframing by Alistair Cockburn based on four imperatives:
+- Collaborate
+- Deliver
+- Reflect
+- Improve</description></item><item><title>After Agile</title><link>https://context-of-agile.org/docs/after-agile/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/after-agile/</guid><description>After Agile # Lean (in software development)
+The relation between Lean and Agile is more complicated than saying that Lean happened after Agile in software development. It&amp;rsquo;s presented here as such because Mary and Tom Poppendieck&amp;rsquo;s &amp;ldquo;Lean Software Development: An Agile Toolkit&amp;rdquo; was published in 2003, so after the Agile Manifesto.
+DevOps</description></item></channel></rss>
