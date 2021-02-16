@@ -10,8 +10,10 @@ draft: false
 ## History of the manifesto
 
 History: The Agile Manifesto - Jim Highsmith, 2001  
-https://agilemanifesto.org/history.html
+https://agilemanifesto.org/history.html  
+*History page on the Agile Manifesto site*
 
 How The Agile Manifesto Came To Be - Jeff Sutherland. 11 February 2021  
 https://www.scruminc.com/how-the-agile-manifesto-came-to-be/  
-https://www.youtube.com/watch?v=AGdi3zZutXk
+https://www.youtube.com/watch?v=AGdi3zZutXk  
+*Jeff Sutherland describes how the Agile Manifesto came to be, 20 years later.*

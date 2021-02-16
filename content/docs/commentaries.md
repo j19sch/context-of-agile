@@ -9,20 +9,25 @@ draft: false
 
 ## By one of the authors
 Artisanal Retro-Futurism Team-Scale Anarcho-Syndicalism - Brian Marick, 15-16 June 2009  
-https://www.youtube.com/watch?v=T5yv-WcQ4wY  
-http://arxta.net/explanation.html
+https://www.youtube.com/watch?v=T5yv-WcQ4wY (audio improves at 3:20)  
+http://arxta.net/explanation.html  
+*Brian Marick about how the core of Agile has gone missing in the 2000s and what that core is/was.*
 
 The Agile Manifesto, Elaborated - Jeff Sutherland, 20 April 2012  
-https://www.scruminc.com/agile-manifesto-elaborated-2/
+https://www.scruminc.com/agile-manifesto-elaborated-2/  
+*Part of "Agile Principles and Values" by Jeff Sutherland. The discrepancy in publishing dates suggests at least one of them is incorrect.*
 
+Agile Principles and Values - Jeff Sutherland, 28 April 2015  
+http://msdn.microsoft.com/en-us/library/dd997578.aspx  
+*Jeff Sutherland's commentary on the four Agile values and a section on Agile being an umbrella term, not a methodology. Part of it published as "The Agile Manifesto, Elaborated" with an inconsistent publishing date.*
 
 
 ## By others
 The Power in Agile - Sarah Mei, 14 July 2018  
 https://www.youtube.com/watch?v=YL-6RCTywbc  
-Critical examination of how the lack of diversity among the authors of the Agile Manifesto resulted in ignoring power dynamics and what that means for a practice like pair programming
+*Critical examination of how the lack of diversity among the authors of the Agile Manifesto resulted in ignoring power dynamics and what that means for a practice like pair programming*
 
 
 The Agile values 20 years later - Romeu Moura, 12 February 2021  
 https://medium.com/@Romeu/the-agile-values-20-years-later-63279a067d80  
-Deep dive into the four core values of Agile 20 years after the Manifesto
+*Deep dive into the four core values of Agile 20 years after the Manifesto*
