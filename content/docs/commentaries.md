@@ -9,7 +9,7 @@ draft: false
 
 ## By one of the authors
 Artisanal Retro-Futurism Team-Scale Anarcho-Syndicalism - Brian Marick, 15-16 June 2009  
-https://www.youtube.com/watch?v=T5yv-WcQ4wY (audio improves at 3:20)  
+https://www.youtube.com/watch?v=T5yv-WcQ4wY (audio improves at 3:20 and again at 15:15)  
 http://arxta.net/explanation.html  
 *Brian Marick about how the core of Agile has gone missing in the 2000s and what that core is/was.*
 
