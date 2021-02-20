@@ -7,6 +7,7 @@ draft: false
 
 # Timeline
 
+The list of sources can be found on the [Sources page](/docs/sources/).
 
 ## 1980s
 
@@ -66,7 +67,8 @@ draft: false
 - A Practical Guide to Feature-Driven Development by S. R. Palmer and J. M. Felsing  
 *(source: Abrahamsson 2003)*
 - Agile Modeling (AM)  
-*(source: Abrahamsson 2003)*
+*(source: Abrahamsson 2003)*  
+
 
 ## 2010s
 
@@ -101,11 +103,3 @@ draft: false
 ### 2020
 - Nov: The Scrum Guide, v7  
 *seventh version of the Scrum Guide, which contains the definition of Scrum*
-
-
-## Sources
-- Abrahamsson 2003: New Directions on Agile Methods: A Comparative Analysis by Pekka Abrahamsson, Juhani Warsta, Mikko T. Siponen and Jussi Ronkainen
-- Beck 2005: Extreme Programming Explained, Second Edition by Kent Beck with Cynthia Andres
-- Highsmith 2001: https://agilemanifesto.org/history.html
-- Sutherland 2014: Scrum, The Art of Doing Twice the Work in Half the Time by Jeff Sutherland
-- Wells 1999: http://www.extremeprogramming.org/
