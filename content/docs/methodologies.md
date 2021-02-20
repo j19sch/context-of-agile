@@ -7,14 +7,19 @@ draft: false
 
 # Methodologies
 
+## Methodologies by authors of the manifesto
 - Adaptive Software Development
 - Crystal
-- DSDM
-- Extreme Programming
+- Extreme Programming (XP)
+- Pragmatic Programming (PP)
+- Scrum
+
+
+## Other methodologies
+- Dynamic Systems Development Method (DSDM)
 - Feature-Driven Development
+- Internet-speeddevelopment (ISD)
 - Kanban
 - Lean Software Development
-- Pragmatic Programming
-- SAFe
-- Scrum
+- Scales Agile Framework (SAFe)
 - Scrumban
