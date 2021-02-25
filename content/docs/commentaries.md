@@ -21,6 +21,9 @@ Agile Principles and Values - Jeff Sutherland, 28 April 2015
 http://msdn.microsoft.com/en-us/library/dd997578.aspx  
 *Jeff Sutherland's commentary on the four Agile values and a section on Agile being an umbrella term, not a methodology. Part of it published as "The Agile Manifesto, Elaborated" with an inconsistent publishing date.*
 
+The Manifesto for Agile Software Development is an historical artifact - Jeff Sutherland, 2019  
+https://www.youtube.com/watch?v=3wXHGIqd_ag  
+*Jeff Sutherland explains the Agile Manifesto is a historical artifact and none of the authors want to change it. It is what it is.*
 
 ## By others
 The Power in Agile - Sarah Mei, 14 July 2018  
