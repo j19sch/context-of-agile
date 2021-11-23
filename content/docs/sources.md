@@ -19,5 +19,8 @@ Extreme Programming Explained, Second Edition by Kent Beck with Cynthia Andres
 ##### Sutherland 2014
 Scrum, The Art of Doing Twice the Work in Half the Time by Jeff Sutherland
 
+##### Weinberg 2017
+Agile Impressions, Gerald M. Weinberg
+
 ##### Wells 1999
 [http://www.extremeprogramming.org/](http://www.extremeprogramming.org/)

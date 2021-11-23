@@ -21,11 +21,22 @@ Agile Principles and Values - Jeff Sutherland, 28 April 2015
 http://msdn.microsoft.com/en-us/library/dd997578.aspx  
 *Jeff Sutherland's commentary on the four Agile values and a section on Agile being an umbrella term, not a methodology. Part of it published as "The Agile Manifesto, Elaborated" with an inconsistent publishing date.*
 
+Developers Should Abandon Agile - Ron Jeffries, 10 May 2018  
+https://ronjeffries.com/articles/018-01ff/abandon-1/  
+*Ron Jeffries advises developers to abandon adherence to any "Agile" method of any kind, since they mostly end up as Faux Agile or Dark Agile. Instead, developers should turn their attention and learing to ways of doing software development that adhere to the foundational principles that support Agile Software Development.*
+
 The Manifesto for Agile Software Development is an historical artifact - Jeff Sutherland, 2019  
 https://www.youtube.com/watch?v=3wXHGIqd_ag  
 *Jeff Sutherland explains the Agile Manifesto is a historical artifact and none of the authors want to change it. It is what it is.*
 
+Scrum, XP and "Agile" started anti-management - Alistair Cockburn, 16 June 2021  
+https://twitter.com/TotherAlistair/status/1405248217835622402?t=R6MsRgJ4_i4jbaYbv1-GGg  
+https://threadreaderapp.com/thread/1405184303126953987.html  
+*Alistair Cockburn shares his knowledge on the background and history of how Scrum was designed to work in hostile environments with strong mangement pressure.*
+
+
 ## By others
+
 The Power in Agile - Sarah Mei, 14 July 2018  
 https://www.youtube.com/watch?v=YL-6RCTywbc  
 *Critical examination of how the lack of diversity among the authors of the Agile Manifesto resulted in ignoring power dynamics and what that means for a practice like pair programming*
@@ -38,11 +49,18 @@ The Agile values 20 years later - Romeu Moura, 12 February 2021
 https://medium.com/@Romeu/the-agile-values-20-years-later-63279a067d80  
 *Deep dive into the four core values of Agile 20 years after the Manifesto*
 
-"software development culture as a literal cult" - @arclight, 25 February 2021  
+"Software development culture as a literal cult" - @arclight, 25 February 2021  
 https://twitter.com/arclight/status/1364951333216923653  
-*Twitter thread arguing there's a really destructive coercive atmosphere around tools, practices, and methodologies today that didn't exist 25y ago*
+*Twitter thread arguing there's a really destructive coercive atmosphere around tools, practices, and methodologies today that didn't exist 25years ago*
 
-How Much Lean is in Today’s “Agile”? - Michael Mahlberg, Johanna Rothman, March 2021  
+How Much Lean is in Today’s "Agile"? - Michael Mahlberg, Johanna Rothman, March 2021  
 https://www.agilealliance.org/how-much-lean-is-in-todays-agile-part-i/  
 https://www.agilealliance.org/adaptability-enhances-how-we-work/  
+https://www.agilealliance.org/looking-at-systems-to-enhance-outcomes/  
+https://www.agilealliance.org/explain-dates-to-anyone-with-forecasts-based-on-your-historical-data/  
+https://www.agilealliance.org/a-little-lean-can-create-a-whole-lot-of-positive-change/  
 *Five part series exploring the observation that although agile approaches owe their history to lean principles, the authors see very little lean thinking in many supposedly agile endeavours*
+
+Agile at 20: The Failed Rebellion - Al Tenhundfeld, 23 July 2021  
+https://www.simplethread.com/agile-at-20-the-failed-rebellion/  
+*20 years after the Manifesto Al Tenhundfeld reflects on how Agile won (nobody wants to be called non-Agile), yet Agile as practiced also falls woefully short of the revolutionary ideas of its founders.*
