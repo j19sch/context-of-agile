@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Context of Agile</title><link>https://context-of-agile.org/</link><description>Recent content on Context of Agile</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 16:56:11 +0100</lastBuildDate><atom:link href="https://context-of-agile.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Before Agile</title><link>https://context-of-agile.org/docs/before-agile/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/before-agile/</guid><description>Before Agile # Managing the Development of Large Software Systems by Dr. Winston W Royce, August 1970
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Context of Agile</title><link>https://context-of-agile.org/</link><description>Recent content on Context of Agile</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 16:56:11 +0100</lastBuildDate><atom:link href="https://context-of-agile.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Before Agile</title><link>https://context-of-agile.org/docs/before-agile/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/before-agile/</guid><description>Before Agile # Managing the Development of Large Software Systems - Dr. Winston W Royce, August 1970
 http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf
 Paper that is often cited as the origin of the waterfall model, while also being very critical of it.
-Software Engineering by Barry Boehm, August 1976
+Software Engineering - Barry Boehm, August 1976
 https://web.archive.org/web/20190910093920/http://csse.usc.edu/TECHRPTS/1976/usccse76-500/usccse76-500.pdf
 Article by Barry Boehm about the current state of the art and of future trends in software engineering. Section &amp;ldquo;II. Definitions&amp;rdquo; contains a diagram of the software life cycle that looks like waterfall.</description></item><item><title>Timeline</title><link>https://context-of-agile.org/docs/timeline/</link><pubDate>Sun, 14 Feb 2021 09:39:11 +0100</pubDate><guid>https://context-of-agile.org/docs/timeline/</guid><description>Timeline # The list of sources can be found on the Sources page.
 1980s # 1986 # Jan 1: The New New Product Development Game
@@ -36,4 +36,4 @@ DevOps</description></item><item><title>Sources</title><link>https://context-of-
 Beck 2005 # Extreme Programming Explained, Second Edition by Kent Beck with Cynthia Andres
 Highsmith 2001 # https://agilemanifesto.org/history.html
 Sutherland 2014 # Scrum, The Art of Doing Twice the Work in Half the Time by Jeff Sutherland
-Wells 1999 # http://www.extremeprogramming.org/</description></item></channel></rss>
+Weinberg 2017 # Agile Impressions, Gerald M.</description></item></channel></rss>
