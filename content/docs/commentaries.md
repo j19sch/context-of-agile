@@ -64,3 +64,8 @@ https://www.agilealliance.org/a-little-lean-can-create-a-whole-lot-of-positive-c
 Agile at 20: The Failed Rebellion - Al Tenhundfeld, 23 July 2021  
 https://www.simplethread.com/agile-at-20-the-failed-rebellion/  
 *20 years after the Manifesto Al Tenhundfeld reflects on how Agile won (nobody wants to be called non-Agile), yet Agile as practiced also falls woefully short of the revolutionary ideas of its founders.*
+
+There Are No More Early Adopters of Agile - Esther Derby and Matthew Carlson, 29 September 2021, 22 November 2021  
+https://changebyattraction.simplecast.com/episodes/no-more-early-adopters  
+https://www.youtube.com/watch?v=XuZ39j7UE20  
+*In this podcast and webinar Esther Derby and Matthew Carlson discuss adoption of Agile 20 years after the Manifesto. While the early adopters were motivated by efficiency and effectiveness, the current (i.e. late) adopters are motivated by legitimacy. And this affects what will be a succesful road to adoption and what won't.*

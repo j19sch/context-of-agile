@@ -4,6 +4,9 @@ title = "Context of Agile"
 
 theme = "book"
 
+
 [params]
 	# disabled because not working yet
 	BookSearch = false
+
+	BookShowToC = true
