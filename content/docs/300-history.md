@@ -35,6 +35,10 @@ https://www.scruminc.com/how-the-agile-manifesto-came-to-be/
 https://www.youtube.com/watch?v=AGdi3zZutXk  
 *Jeff Sutherland describes how the Agile Manifesto came to be, 20 years later.*
 
+3 Decades of History and Stories about Agile - Alistair Cockburn, 16 February 2021  
+https://youtu.be/fG6N-QNDblM?t=335  
+*Alistair Cockburn talks about what happened in the '90s that lead up to the writing of the Manifesto. And he relates how the Manifesto was written and published.*
+
 
 ## History of Agile methodologies
 New Directions on Agile Methods: A Comparative Analysis - Pekka Abrahamsson, Juhani Warsta, Mikko T. Siponen and Jussi Ronkainen, 2003

@@ -26,6 +26,8 @@ draft: false
 
 
 ## G
+**Adele Goldberg**: co-author of Succeeding With Objects: Decision Frameworks for Project Management
+
 **James Grenning**: co-author of the Manifesto
 
 
@@ -54,8 +56,14 @@ draft: false
 ## S
 **Ken Schwaber**: co-author of the Manifesto
 
+**Jennifer Stapleton**: DSDM
+
 **Jeff Sutherland**: co-author of the Manifesto
 
 
 ## T
 **Dave Thomas**: co-author of the Manifesto
+
+
+## W
+**Rebecca Wirfs-Brock**: co-author of Designing Object-Oriented Software
