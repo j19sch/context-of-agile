@@ -1,3 +1,6 @@
 [submodule "themes/book"]
 	path = themes/book
 	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/plausible-hugo"]
+	path = themes/plausible-hugo
+	url = git@github.com:divinerites/plausible-hugo.git

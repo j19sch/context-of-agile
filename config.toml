@@ -2,7 +2,8 @@ baseURL = "https://context-of-agile.org/"
 languageCode = "en-us"
 title = "Context of Agile"
 
-theme = "book"
+
+theme = ["book", "plausible-hugo"]
 
 
 [params]
@@ -10,3 +11,9 @@ theme = "book"
 	BookSearch = false
 
 	BookShowToC = true
+
+
+[params.plausible]
+  enable = true
+  domain = "context-of-agile.org"
+  gitstar = false
