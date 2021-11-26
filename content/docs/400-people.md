@@ -34,6 +34,8 @@ draft: false
 ## H
 **Jim Highsmith**: co-author of the Manifesto
 
+**Jon Hopkins**: organizer of the Workshop on Object-Oriented Design (WOOD) workshops
+
 **Andrew Hunt**: co-author of the Manifesto
 
 
@@ -67,3 +69,5 @@ draft: false
 
 ## W
 **Rebecca Wirfs-Brock**: co-author of Designing Object-Oriented Software
+
+**Gerald (Jerry) M. Weinberg**: sometimes called the grandfather of Agile Programming

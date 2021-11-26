@@ -17,6 +17,10 @@ The Agile Manifesto, Elaborated - Jeff Sutherland, 20 April 2012
 https://www.scruminc.com/agile-manifesto-elaborated-2/  
 *Part of "Agile Principles and Values" by Jeff Sutherland. The discrepancy in publishing dates suggests at least one of them is incorrect.*
 
+Agile is Dead (Long Live Agility) - Dave Thomas, 4 March 2014  
+https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html  
+*Dave Tomas argues we have lost the word "Agile" and should try to hang on to the word "agility" as a label for doing things in an agile fashion.*
+
 Agile Principles and Values - Jeff Sutherland, 28 April 2015  
 http://msdn.microsoft.com/en-us/library/dd997578.aspx  
 *Jeff Sutherland's commentary on the four Agile values and a section on Agile being an umbrella term, not a methodology. Part of it published as "The Agile Manifesto, Elaborated" with an inconsistent publishing date.*
@@ -25,17 +29,19 @@ Developers Should Abandon Agile - Ron Jeffries, 10 May 2018
 https://ronjeffries.com/articles/018-01ff/abandon-1/  
 *Ron Jeffries advises developers to abandon adherence to any "Agile" method of any kind, since they mostly end up as Faux Agile or Dark Agile. Instead, developers should turn their attention and learing to ways of doing software development that adhere to the foundational principles that support Agile Software Development.*
 
-The Manifesto for Agile Software Development is an historical artifact - Jeff Sutherland, 2019  
-https://www.youtube.com/watch?v=3wXHGIqd_ag  
-*Jeff Sutherland explains the Agile Manifesto is a historical artifact and none of the authors want to change it. It is what it is.*
-
-Scrum, XP and "Agile" started anti-management - Alistair Cockburn, 16 June 2021  
-https://twitter.com/TotherAlistair/status/1405248217835622402?t=R6MsRgJ4_i4jbaYbv1-GGg  
-https://threadreaderapp.com/thread/1405184303126953987.html  
-*Alistair Cockburn shares his knowledge on the background and history of how Scrum was designed to work in hostile environments with strong mangement pressure.*
 
 
 ## By others
+
+Agile Ruined My Life - Daniel Markham, 7 September 2010  
+https://web.archive.org/web/20100910225833/http://www.whattofix.com/blog/archives/2010/09/agile-ruined-my.php  
+https://news.ycombinator.com/item?id=1669075  
+https://testobsessed.com/2010/09/agile-backlash/  
+*Daniel Markham shares his views on the problems with Agile coaches and consultants.*
+
+The Agile Acid Test - Elisabeth Hendrickson, 14 December 2010  
+https://testobsessed.com/2010/12/the-agile-acid-test/  
+*Elisabeth Hendrickson shares her Agile Acid Test to determine if a team really is Agile. It consists of three questions: How Frequently Do You Deliver?, Could You Continue at This Pace Indefinitely? and How Does the Team Handle Change?*
 
 The Power in Agile - Sarah Mei, 14 July 2018  
 https://www.youtube.com/watch?v=YL-6RCTywbc  
@@ -60,6 +66,10 @@ https://www.agilealliance.org/looking-at-systems-to-enhance-outcomes/
 https://www.agilealliance.org/explain-dates-to-anyone-with-forecasts-based-on-your-historical-data/  
 https://www.agilealliance.org/a-little-lean-can-create-a-whole-lot-of-positive-change/  
 *Five part series exploring the observation that although agile approaches owe their history to lean principles, the authors see very little lean thinking in many supposedly agile endeavours*
+
+Advocating against Agile methods - Geepaw Hill, 19 April 2021  
+https://twitter.com/GeePawHill/status/1384234186127536134  
+*Geepaw Hill shares five reasons why he advocates against adopting any of the current "Agile" methods.*
 
 Agile at 20: The Failed Rebellion - Al Tenhundfeld, 23 July 2021  
 https://www.simplethread.com/agile-at-20-the-failed-rebellion/  

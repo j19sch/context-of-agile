@@ -20,7 +20,7 @@ https://modernagile.org/
 Heart of Agile  
 https://heartofagile.com/  
 *Reframing by Alistair Cockburn based on four imperatives:*  
-*- Collaborate*  
-*- Deliver*  
-*- Reflect*  
-*- Improve*
+*- Collaborate: increase the quality of listening*  
+*- Deliver: small & soon*  
+*- Reflect: pause; check data & emotions*  
+*- Improve: small changes*
