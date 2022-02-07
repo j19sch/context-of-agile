@@ -51,6 +51,9 @@ https://twitter.com/TotherAlistair/status/1405248217835622402?t=R6MsRgJ4_i4jbaYb
 https://threadreaderapp.com/thread/1405184303126953987.html  
 *Alistair Cockburn shares his knowledge on the background and history of how Scrum was designed to work in hostile environments with strong mangement pressure.*
 
+What is Agile? - James Shore, October 2021  
+https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
+*First chapter of the 2nd edition of James Shores' "The Art of Agile Development"*
 
 ## History of Agile methodologies
 New Directions on Agile Methods: A Comparative Analysis - Pekka Abrahamsson, Juhani Warsta, Mikko T. Siponen and Jussi Ronkainen, 2003

@@ -7,6 +7,8 @@ draft: false
 
 # Timeline
 
+*Disclaimer*: This timeline is a work-in-progress and as such does not present a balanced view.
+
 The list of sources can be found on the [Sources page](/docs/sources/).
 
 ## 1980s
@@ -68,7 +70,14 @@ The list of sources can be found on the [Sources page](/docs/sources/).
 *(source: Abrahamsson 2003)*
 - Agile Modeling (AM)  
 *(source: Abrahamsson 2003)*  
+- Feb: Agile Software Development with SCRUM by Ken Schwaber, Mike Beedle
 
+
+### 2004
+- Nov: Extreme Programming Explained, 2nd edition by Kent Beck  
+
+### 2007
+- Nov: The Art of Agile Development by James Shore
 
 ## 2010s
 
@@ -103,3 +112,6 @@ The list of sources can be found on the [Sources page](/docs/sources/).
 ### 2020
 - Nov: The Scrum Guide, v7  
 *seventh version of the Scrum Guide, which contains the definition of Scrum*
+
+### 2021
+- Oct: The Art of Agile Development, 2nd Edition by James Shore

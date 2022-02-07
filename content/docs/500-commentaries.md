@@ -79,3 +79,7 @@ There Are No More Early Adopters of Agile - Esther Derby and Matthew Carlson, 29
 https://changebyattraction.simplecast.com/episodes/no-more-early-adopters  
 https://www.youtube.com/watch?v=XuZ39j7UE20  
 *In this podcast and webinar Esther Derby and Matthew Carlson discuss adoption of Agile 20 years after the Manifesto. While the early adopters were motivated by efficiency and effectiveness, the current (i.e. late) adopters are motivated by legitimacy. And this affects what will be a succesful road to adoption and what won't.*
+
+What is Agile? - James Shore, October 2021  
+https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
+*First chapter of the 2nd edition of James Shores' "The Art of Agile Development" including sections about why Agile won, why it works, and why it fails.*
