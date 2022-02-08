@@ -36,3 +36,7 @@ https://agileconversations.com/agile-conversation-book/
 Getting over the Waterfall, Deconstructing sequential development to better understand more continuous development - Kevlin Henney, August 2021  
 https://kevlinhenney.medium.com/getting-over-the-waterfall-c090c6228ca9  
 *In this article Kevlin Henney examines the motivation and attraction of sequential development (the waterfall approach) to better understand more agile approaches to software development.*
+
+What is Agile? - James Shore, October 2021  
+https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
+*First chapter of the 2nd edition of James Shore's "The Art of Agile Development"*

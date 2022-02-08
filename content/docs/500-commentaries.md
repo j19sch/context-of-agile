@@ -82,4 +82,4 @@ https://www.youtube.com/watch?v=XuZ39j7UE20
 
 What is Agile? - James Shore, October 2021  
 https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
-*First chapter of the 2nd edition of James Shores' "The Art of Agile Development" including sections about why Agile won, why it works, and why it fails.*
+*First chapter of the 2nd edition of James Shore's "The Art of Agile Development" including sections about why Agile won, why it works, and why it fails.*
