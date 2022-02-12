@@ -8,6 +8,7 @@ draft: false
 # Commentaries
 
 ## By one of the authors
+
 Artisanal Retro-Futurism Team-Scale Anarcho-Syndicalism - Brian Marick, 15-16 June 2009  
 https://www.youtube.com/watch?v=T5yv-WcQ4wY (audio improves at 3:20 and again at 15:15)  
 http://arxta.net/explanation.html  
@@ -17,9 +18,11 @@ The Agile Manifesto, Elaborated - Jeff Sutherland, 20 April 2012
 https://www.scruminc.com/agile-manifesto-elaborated-2/  
 *Part of "Agile Principles and Values" by Jeff Sutherland. The discrepancy in publishing dates suggests at least one of them is incorrect.*
 
-Agile is Dead (Long Live Agility) - Dave Thomas, 4 March 2014  
-https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html  
-*Dave Tomas argues we have lost the word "Agile" and should try to hang on to the word "agility" as a label for doing things in an agile fashion.*
+Agile is Dead (Long Live Agility) - Dave Thomas, 2014-2015  
+https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html (4 March 2014)  
+https://www.youtube.com/watch?v=YpGGRAhes2k (Rethink Dallas, 6 December 2014)  
+https://www.youtube.com/watch?v=a-BOSpxYJ9M (GOTO Amsterdam, 17-19 June 2015)  
+*Dave Thomas argues we have lost the word "Agile" and should try to hang on to the word "agility" as a label for doing things in an agile fashion.*
 
 Agile Principles and Values - Jeff Sutherland, 28 April 2015  
 http://msdn.microsoft.com/en-us/library/dd997578.aspx  
@@ -50,6 +53,10 @@ https://www.youtube.com/watch?v=YL-6RCTywbc
 Agile won the war but lost the peace - Allan Kelly, 8 November 2018  
 https://www.allankellyassociates.co.uk/archives/2762/agile-won-the-war-but-lost-the-peace/  
 *Allan Kelly argues that everyone is agile now, but that kind of agile is not living up to the original dream of agile.*
+
+Back to the future: origins and directions of the "Agile Manifesto" - views of the originators -Philipp Hohl, Jil Klünder, Arie van Bennekum, Ryan Lockard, James Gifford, Jürgen Münch, Michael Stupperich & Kurt Schneider, 9 November 2018  
+https://jserd.springeropen.com/articles/10.1186/s40411-018-0059-z  
+*Article focusing on the origins of the manifesto, the contributors' views from today's perspective, and their outlook on future directions: "The original contributors emphasize that agile methods need to be carefully selected and agile should not be seen as a silver bullet. They underline the importance of considering the variety of different practices and methods that had an influence on the development of the manifesto. Furthermore, they mention that people should question their current understanding of “agile” and recommend reconsidering the core ideas of the manifesto."*
 
 The Agile values 20 years later - Romeu Moura, 12 February 2021  
 https://medium.com/@Romeu/the-agile-values-20-years-later-63279a067d80  
@@ -83,3 +90,8 @@ https://www.youtube.com/watch?v=XuZ39j7UE20
 What is Agile? - James Shore, October 2021  
 https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
 *First chapter of the 2nd edition of James Shore's "The Art of Agile Development" including sections about why Agile won, why it works, and why it fails.*
+
+
+Pondering Agile Principles - Benji Weber, 30 January 2022  
+https://benjiweber.co.uk/blog/2022/01/30/pondering-agile-principles/  
+*Benji Weber takes a critical look at the 12 Agile principles and suggests updated versions*
