@@ -14,4 +14,4 @@ One aspect of that context that's worth nothing here is that the manifesto was a
 
 ---
 
-If you come across any resources that might be added to this site, please send a tweet to [@contextofagile](https://twitter.com/ContextOfAgile). Or if you're up for that, you can submit a [pull request](https://github.com/j19sch/context-of-agile/pulls) or an [issue](https://github.com/j19sch/context-of-agile/issues) on GitHub.
+If you come across any resources that might be added to this site, please send a tweet to [@ContextOfAgile](https://twitter.com/ContextOfAgile). Or if you're up for that, you can submit a [pull request](https://github.com/j19sch/context-of-agile/pulls) or an [issue](https://github.com/j19sch/context-of-agile/issues) on GitHub.

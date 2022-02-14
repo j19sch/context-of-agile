@@ -14,6 +14,10 @@ https://www.youtube.com/watch?v=T5yv-WcQ4wY (audio improves at 3:20 and again at
 http://arxta.net/explanation.html  
 *Brian Marick about how the core of Agile has gone missing in the 2000s and what that core is/was.*
 
+Beyond Agile: New Principles? - Ron Jeffries, 27 August 2010  
+https://ronjeffries.com/xprog/articles/beyond-agile-new-principles/  
+*Ron Jeffries asks the question if the Agile Manifesto needs to be updated since it's hard to live up to its values and principles. His answer is that we should raise our game instead.*
+
 The Agile Manifesto, Elaborated - Jeff Sutherland, 20 April 2012  
 https://www.scruminc.com/agile-manifesto-elaborated-2/  
 *Part of "Agile Principles and Values" by Jeff Sutherland. The discrepancy in publishing dates suggests at least one of them is incorrect.*
@@ -36,6 +40,10 @@ https://ronjeffries.com/articles/018-01ff/abandon-1/
 
 ## By others
 
+Manifesto for Half-Arsed Agile Software Development - Kerry Buckley, August 2010  
+http://www.halfarsedagilemanifesto.org/  
+*Manifesto by Kerry Buckley that parodies how enterprise companies tend to adopt Agile, i.e. not truly.*
+
 Agile Ruined My Life - Daniel Markham, 7 September 2010  
 https://web.archive.org/web/20100910225833/http://www.whattofix.com/blog/archives/2010/09/agile-ruined-my.php  
 https://news.ycombinator.com/item?id=1669075  
@@ -45,6 +53,10 @@ https://testobsessed.com/2010/09/agile-backlash/
 The Agile Acid Test - Elisabeth Hendrickson, 14 December 2010  
 https://testobsessed.com/2010/12/the-agile-acid-test/  
 *Elisabeth Hendrickson shares her Agile Acid Test to determine if a team really is Agile. It consists of three questions: How Frequently Do You Deliver?, Could You Continue at This Pace Indefinitely? and How Does the Team Handle Change?*
+
+A decade of agile methodologies: Towards explaining agile software development - Torgeir Dingsøyr, Sridhar Nerur, VenuGopal Balijepally, Nils Brede Moe, June 2012  
+https://www.sciencedirect.com/science/article/pii/S0164121212000532?via%3Dihub  
+*Article examining the state of research on Agile software development and providing suggestions for future research.*
 
 The Power in Agile - Sarah Mei, 14 July 2018  
 https://www.youtube.com/watch?v=YL-6RCTywbc  
