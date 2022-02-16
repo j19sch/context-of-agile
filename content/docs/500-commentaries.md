@@ -94,6 +94,10 @@ Agile at 20: The Failed Rebellion - Al Tenhundfeld, 23 July 2021
 https://www.simplethread.com/agile-at-20-the-failed-rebellion/  
 *20 years after the Manifesto Al Tenhundfeld reflects on how Agile won (nobody wants to be called non-Agile), yet Agile as practiced also falls woefully short of the revolutionary ideas of its founders.*
 
+What is Post Agile? - Dave Farley, 11 August, 2021  
+https://youtu.be/4OtI6s-rTOE  
+*Dave Farley argues that the real Post Agile move is to apply scienctific-style reasoning to software in order to create an engineering discipline for software. That discipline will not replace the Agile Manifesto, but significantly increase our chances to achieve Agile's values and principles.*
+
 There Are No More Early Adopters of Agile - Esther Derby and Matthew Carlson, 29 September 2021, 22 November 2021  
 https://changebyattraction.simplecast.com/episodes/no-more-early-adopters  
 https://www.youtube.com/watch?v=XuZ39j7UE20  
@@ -102,7 +106,6 @@ https://www.youtube.com/watch?v=XuZ39j7UE20
 What is Agile? - James Shore, October 2021  
 https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
 *First chapter of the 2nd edition of James Shore's "The Art of Agile Development" including sections about why Agile won, why it works, and why it fails.*
-
 
 Pondering Agile Principles - Benji Weber, 30 January 2022  
 https://benjiweber.co.uk/blog/2022/01/30/pondering-agile-principles/  
