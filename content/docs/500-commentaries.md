@@ -70,6 +70,14 @@ Back to the future: origins and directions of the "Agile Manifesto" - views of t
 https://jserd.springeropen.com/articles/10.1186/s40411-018-0059-z  
 *Article focusing on the origins of the manifesto, the contributors' views from today's perspective, and their outlook on future directions: "The original contributors emphasize that agile methods need to be carefully selected and agile should not be seen as a silver bullet. They underline the importance of considering the variety of different practices and methods that had an influence on the development of the manifesto. Furthermore, they mention that people should question their current understanding of “agile” and recommend reconsidering the core ideas of the manifesto."*
 
+Agile as a Zombie...Noun - Charles Lambdin, 27 January 2020  
+https://charleslambdin.com/2020/01/27/agile-as-a-zombienoun/  
+*Article that argues that "Agile" is a "nominalization", a "zombie noun". It's used in too abstract a way, divorced from anything sensory-specific. As such, it leads to illusory alignment, because most often the conversation does not proceed to speciffics, to the what, who, and how.*
+
+Agile as Trauma - Dorian Taylor, 8 February 2020  
+https://doriantaylor.com/agile-as-trauma  
+*Article that argues that the Agile Manifesto is an immune response on the part of programmers to bad management, it's an expression of trauma. As such Agile remains a tactical, technical, and ultimately reactionary movement. To move beyond, it is important to place Agile in a wider context, both historically and in the context of the invariant idiosyncrasies of software development.*
+
 The Agile values 20 years later - Romeu Moura, 12 February 2021  
 https://medium.com/@Romeu/the-agile-values-20-years-later-63279a067d80  
 *Deep dive into the four core values of Agile 20 years after the Manifesto*
@@ -110,3 +118,11 @@ https://www.jamesshore.com/v2/books/aoad2/what_is_agile
 Pondering Agile Principles - Benji Weber, 30 January 2022  
 https://benjiweber.co.uk/blog/2022/01/30/pondering-agile-principles/  
 *Benji Weber takes a critical look at the 12 Agile principles and suggests updated versions*
+
+Agile and the Long Crisis of Software - Miriam Posner, 7 April 2022  
+https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/  
+*Atricle that outlines the history of software development from the 1960s up to the Agile Manifesto. It then proceeds to argue the current crisis in software development is the Agile crisis. Agile is not delivering the liberatory experience it’s billed as. In a corporate context, its methods and values are also invariably oriented to the imperatives of the corporation, i.e. building the product to support the bottom line.*
+
+Two common threads across companies doing agile - Yvonne Lam, 8 April 2022  
+https://twitter.com/yvonnezlam/status/1512209492267581445  
+*I'm only a practitioner of agile in the sense that every place I've worked for has done some variety of agile. None of them look alike aside from using similar software tools and not wanting to deal with feedback loops.*
