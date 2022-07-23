@@ -58,6 +58,15 @@ A decade of agile methodologies: Towards explaining agile software development -
 https://www.sciencedirect.com/science/article/pii/S0164121212000532?via%3Dihub  
 *Article examining the state of research on Agile software development and providing suggestions for future research.*
 
+Why Scaling Agile Doesn't Work (and what to do about it) - Jez Humble, December 2015  
+https://www.youtube.com/watch?v=2zYxWEZ0gYg  
+*Jez Humble argues that scaling Agile does not work, because Agile is only one piece of the puzzle. The acitivities before and after the Agile software development-part need to be addressed. He continues with proposing five things we should do in those areas.*
+
+Agile revisited - Dan North, 2015-2016  
+https://www.youtube.com/watch?v=pcLbkmvqfiY (GOTO London, September 2015)  
+https://www.youtube.com/watch?v=iFLBG_bilrg (GOTO Copenhagen, October 2016, better audio)  
+*Dan North recounts the history of Agile from the 1990s to the 2010s and argues that the next step for Agile is to review the premise that lead to Agile in the first place, i.e. Lean operations. He closes by sharing an updates version of the Agile Manifesto.*
+
 The Power in Agile - Sarah Mei, 14 July 2018  
 https://www.youtube.com/watch?v=YL-6RCTywbc  
 *Critical examination of how the lack of diversity among the authors of the Agile Manifesto resulted in ignoring power dynamics and what that means for a practice like pair programming*
