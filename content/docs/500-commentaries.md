@@ -77,7 +77,11 @@ https://www.allankellyassociates.co.uk/archives/2762/agile-won-the-war-but-lost-
 
 Back to the future: origins and directions of the "Agile Manifesto" - views of the originators -Philipp Hohl, Jil Klünder, Arie van Bennekum, Ryan Lockard, James Gifford, Jürgen Münch, Michael Stupperich & Kurt Schneider, 9 November 2018  
 https://jserd.springeropen.com/articles/10.1186/s40411-018-0059-z  
-*Article focusing on the origins of the manifesto, the contributors' views from today's perspective, and their outlook on future directions: "The original contributors emphasize that agile methods need to be carefully selected and agile should not be seen as a silver bullet. They underline the importance of considering the variety of different practices and methods that had an influence on the development of the manifesto. Furthermore, they mention that people should question their current understanding of “agile” and recommend reconsidering the core ideas of the manifesto."*
+*Article focusing on the origins of the manifesto, the contributors' views from today's perspective, and their outlook on future directions: "The original contributors emphasize that agile methods need to be carefully selected and agile should not be seen as a silver bullet. They underline the importance of considering the variety of different practices and methods that had an influence on the development of the manifesto. Furthermore, they mention that people should question their current understanding of “agile” and recommend reconsidering the of ideas of the manifesto."*
+
+Why Don’t We Just Call Agile What It Is: Feminist - Hanna Thomas Uose, 3 September 2019  
+https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba  
+*Hanna Thomas Uose argues that we should not only look at tech and manufacturing companies when it comes to Lean-Agile. The Agile Manifesto is inherently subversive, anti-authoritarian, and feminist. The Lean-Agile principles of experimentation, of collaboration, of support and iteration have been a part of progressive social movements since before the Manifesto. In this sense, successful organisations aren’t ones that adopt an 'Agile mindset'. Successful organisations are ones that adopt a feminist, queer, anti-establishment, progressive mindset - one that is flexible, experimental, pushes boundaries, self-organises, and acts in service of community.*
 
 Agile as a Zombie...Noun - Charles Lambdin, 27 January 2020  
 https://charleslambdin.com/2020/01/27/agile-as-a-zombienoun/  
