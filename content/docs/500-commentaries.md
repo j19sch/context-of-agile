@@ -36,6 +36,9 @@ Developers Should Abandon Agile - Ron Jeffries, 10 May 2018
 https://ronjeffries.com/articles/018-01ff/abandon-1/  
 *Ron Jeffries advises developers to abandon adherence to any "Agile" method of any kind, since they mostly end up as Faux Agile or Dark Agile. Instead, developers should turn their attention and learing to ways of doing software development that adhere to the foundational principles that support Agile Software Development.*
 
+Nothing useful to say about the current relevance of the movement called Agile - Brian Marick, 5 March 2022  
+https://twitter.com/marick/status/1499905649970397189  
+*Brian Marick announcing that he has nothing useful to say about the current relevance of the movement called Agile, because he hasn't worked with a programming team for about 10 years. He does encourage those who'd try to recover its original spirit.*
 
 
 ## By others
@@ -139,3 +142,7 @@ https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/
 Two common threads across companies doing agile - Yvonne Lam, 8 April 2022  
 https://twitter.com/yvonnezlam/status/1512209492267581445  
 *I'm only a practitioner of agile in the sense that every place I've worked for has done some variety of agile. None of them look alike aside from using similar software tools and not wanting to deal with feedback loops.*
+
+Participative Design for Participative Democracy - Trond Hjorteland, 31 May 2022  
+https://www.linkedin.com/pulse/participative-design-democracy-trond-hjorteland/  
+*Trond Hjorteland explains that Agile was in many ways originally a democratisation movement, where the developers self-organised in teams and took charge of more of the development process. He then argues that a full participative democratisation, i.e. including the design and construction of the organization, is needed for Agile to truly shine.*

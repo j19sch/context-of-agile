@@ -25,6 +25,10 @@ The Creation Of The Agile Manifesto - Ken Schwaber, 1 March 2017
 https://www.youtube.com/watch?v=mfQIjf2TPdk  
 *Short video of Ken Schwaber discussing how the Agile Manifesto came about.*
 
+The Winter Getaway That Turned the Software World Upside Down - Caroline Mimbs Nyce, 8 December 2017  
+https://www.theatlantic.com/technology/archive/2017/12/agile-manifesto-a-history/547715/  
+*Article about how the Agile Manifesto came about. Contains reflections on Agile by several of the Manifesto's co-authors at the end.*
+
 The Agile Manifesto: History and Evolution With Co-Authors Arie van Bennekum and James Grenning, 2019  
 https://www.youtube.com/watch?v=0fDhSwN2YVw  
 *Interview with Arie van Bennekum and James Grenning about why they decided to go to Snowbird, their experiences in software development before and after the Manifesto, how to adopt an agile way of working, and the future of agile.*
