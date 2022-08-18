@@ -61,6 +61,10 @@ A decade of agile methodologies: Towards explaining agile software development -
 https://www.sciencedirect.com/science/article/pii/S0164121212000532?via%3Dihub  
 *Article examining the state of research on Agile software development and providing suggestions for future research.*
 
+Dropping the 'agile' from 'software development': Why 'agile' is still the new name for methodology - Peter Hilton, 30 July 2014  
+https://hilton.org.uk/blog/dropping-the-agile  
+*Peter Hilton reflects on the question to what degree there's still value in talking about 'agile' instead of just talking about 'software development.*
+
 Why Scaling Agile Doesn't Work (and what to do about it) - Jez Humble, December 2015  
 https://www.youtube.com/watch?v=2zYxWEZ0gYg  
 *Jez Humble argues that scaling Agile does not work, because Agile is only one piece of the puzzle. The acitivities before and after the Agile software development-part need to be addressed. He continues with proposing five things we should do in those areas.*
@@ -78,9 +82,13 @@ Agile won the war but lost the peace - Allan Kelly, 8 November 2018
 https://www.allankellyassociates.co.uk/archives/2762/agile-won-the-war-but-lost-the-peace/  
 *Allan Kelly argues that everyone is agile now, but that kind of agile is not living up to the original dream of agile.*
 
-Back to the future: origins and directions of the "Agile Manifesto" - views of the originators -Philipp Hohl, Jil Klünder, Arie van Bennekum, Ryan Lockard, James Gifford, Jürgen Münch, Michael Stupperich & Kurt Schneider, 9 November 2018  
+Back to the future: origins and directions of the "Agile Manifesto" - views of the originators - Philipp Hohl, Jil Klünder, Arie van Bennekum, Ryan Lockard, James Gifford, Jürgen Münch, Michael Stupperich & Kurt Schneider, 9 November 2018  
 https://jserd.springeropen.com/articles/10.1186/s40411-018-0059-z  
 *Article focusing on the origins of the manifesto, the contributors' views from today's perspective, and their outlook on future directions: "The original contributors emphasize that agile methods need to be carefully selected and agile should not be seen as a silver bullet. They underline the importance of considering the variety of different practices and methods that had an influence on the development of the manifesto. Furthermore, they mention that people should question their current understanding of “agile” and recommend reconsidering the of ideas of the manifesto."*
+
+AgileKillsKittens (or Agile In Their Own Words: The Problem With Agile & Scrum) - rayfrankenstein (ed.), 14 July 2019 until present  
+https://github.com/rayfrankenstein/AITOW/blob/master/README.md  
+*A curated list of negative developer comments about Agile and Scrum on social media*
 
 Why Don’t We Just Call Agile What It Is: Feminist - Hanna Thomas Uose, 3 September 2019  
 https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba  
@@ -134,6 +142,10 @@ https://www.jamesshore.com/v2/books/aoad2/what_is_agile
 Pondering Agile Principles - Benji Weber, 30 January 2022  
 https://benjiweber.co.uk/blog/2022/01/30/pondering-agile-principles/  
 *Benji Weber takes a critical look at the 12 Agile principles and suggests updated versions*
+
+Rewilding Agile - Dave Snowden, 7 February 2022  
+https://twitter.com/TheCynefinCo/status/1490704381590781954  
+*Dave Snowden talks about rewilding Agile, i.e. restoring balance and integrity to it. With Agile entering the commoditization phase, it has lost lots of its original energy. We can't go back. but we can move forward. The Cynefin framework allows us to do this.*
 
 Agile and the Long Crisis of Software - Miriam Posner, 7 April 2022  
 https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/  

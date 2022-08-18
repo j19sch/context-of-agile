@@ -59,5 +59,9 @@ What is Agile? - James Shore, October 2021
 https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
 *First chapter of the 2nd edition of James Shore's "The Art of Agile Development"*
 
+The 90's context of agile phrases - Steve Cooper, 28 November 2021  
+https://twitter.com/stevecooperorg/status/1464858673604407300  
+*Steve Cooper clarifies the 90's context of the Agile values: Jackson structured programming, 500-page detailed specs, wall-covering Gantt charts.*
+
 ## History of Agile methodologies
 New Directions on Agile Methods: A Comparative Analysis - Pekka Abrahamsson, Juhani Warsta, Mikko T. Siponen and Jussi Ronkainen, 2003
