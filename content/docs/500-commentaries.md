@@ -139,6 +139,10 @@ What is Agile? - James Shore, October 2021
 https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
 *First chapter of the 2nd edition of James Shore's "The Art of Agile Development" including sections about why Agile won, why it works, and why it fails.*
 
+Agility ≠ Speed: Software development benefits from a sense of direction - Kevlin Henney, 22 November 2021  
+https://kevlinhenney.medium.com/agility-speed-96057078fe40  
+*Kevlin Henney reflects on agility, speed, and velocity. He notes that most velocity metrics are actually speed metrics, which are just utlitisation or estimation metrics. Velocity, however, implies a direction next to a speed. He concludes by saying that agility is not just about that kind of velocity (a sustainable pace in an optimal direction), but also requires the ability to easily change both speed and direction.*
+
 Pondering Agile Principles - Benji Weber, 30 January 2022  
 https://benjiweber.co.uk/blog/2022/01/30/pondering-agile-principles/  
 *Benji Weber takes a critical look at the 12 Agile principles and suggests updated versions*
@@ -158,3 +162,8 @@ https://twitter.com/yvonnezlam/status/1512209492267581445
 Participative Design for Participative Democracy - Trond Hjorteland, 31 May 2022  
 https://www.linkedin.com/pulse/participative-design-democracy-trond-hjorteland/  
 *Trond Hjorteland explains that Agile was in many ways originally a democratisation movement, where the developers self-organised in teams and took charge of more of the development process. He then argues that a full participative democratisation, i.e. including the design and construction of the organization, is needed for Agile to truly shine.*
+
+
+Agile Maxims - Woody Zuill, 13 August 2022  
+https://twitter.com/WoodyZuill/status/1558480405258309632  
+*Woody Zuill's eight Agile Maxims*
