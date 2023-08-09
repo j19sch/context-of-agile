@@ -40,3 +40,8 @@ https://kevlinhenney.medium.com/getting-over-the-waterfall-c090c6228ca9
 What is Agile? - James Shore, October 2021  
 https://www.jamesshore.com/v2/books/aoad2/what_is_agile  
 *First chapter of the 2nd edition of James Shore's "The Art of Agile Development"*
+
+BONUS: a circle-centric reading of software development through the 1990s, plus screech owls - Brian Marick, 21 July 2023  
+https://podcast.oddly-influenced.dev/episodes/bonus-a-circle-centric-reading-of-software-development-through-the-1990s-plus-screech-owls  
+https://mstdn.social/@marick/110703481860773401 (part of Brian Marick's research for the podcast episode)  
+*In this podcast episode Brian Marick does a great job describing the state of software development before agile and how the early Agilists started doing something different based on "change is opportunity" and "if it hurts, do it more often".*

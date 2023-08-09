@@ -163,7 +163,12 @@ Participative Design for Participative Democracy - Trond Hjorteland, 31 May 2022
 https://www.linkedin.com/pulse/participative-design-democracy-trond-hjorteland/  
 *Trond Hjorteland explains that Agile was in many ways originally a democratisation movement, where the developers self-organised in teams and took charge of more of the development process. He then argues that a full participative democratisation, i.e. including the design and construction of the organization, is needed for Agile to truly shine.*
 
-
 Agile Maxims - Woody Zuill, 13 August 2022  
 https://twitter.com/WoodyZuill/status/1558480405258309632  
 *Woody Zuill's eight Agile Maxims*
+
+A Patchwork of Contradictions and Confusions: Inside the Software Industry - Merrelyn Emery, January 2023
+https://www.socialsciencethatactuallyworks.com/_files/ugd/d59011_f069e39dfe3a4fe6b867244880c2ba29.pdf  
+https://www.linkedin.com/pulse/agile-working-industry-patchwork-contradictions-trond-hjorteland (article by Trond Hjorteland, 31 March 2023)  
+https://podcast.oddly-influenced.dev/episodes/trond-hjorteland-on-a-radical-approach-to-organizational-transformation (podcast interview with Trond Hjorteland, 10 April 2023)  
+*Study using as its framework open systems theory (OST) to research what is going on inside the software industry. Its conclusion is that the software industry is a conglomeration of strange combinations of high and low supervision, coordination and control. These uneasy combinations have, therefore, generally not produced well functioning organization either at the operator or managerial levels. After over 20 years of agile, this study shows that agile has failed to produce a coherent industry or sustainable organizations.*
