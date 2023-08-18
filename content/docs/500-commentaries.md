@@ -40,6 +40,14 @@ Nothing useful to say about the current relevance of the movement called Agile -
 https://twitter.com/marick/status/1499905649970397189  
 *Brian Marick announcing that he has nothing useful to say about the current relevance of the movement called Agile, because he hasn't worked with a programming team for about 10 years. He does encourage those who'd try to recover its original spirit.*
 
+Waterfall Over Agile In 2023??? - Kent Beck and David Farley, 14 May 2023  
+https://www.youtube.com/watch?v=J4ihLROXzPk  
+*Kent Beck and David Farley discuss why waterfall still persists and is perhaps even making a comeback. The power structures haven't changed. The fiction of "just doing it right the first time" is too attractive.*
+
+Complaints against agile match what agile complained about 25 years ago - Brian Marick, 16 August 2023  
+https://mstdn.social/@marick/110899650132163148  
+*Brian Marick shares "the most amazingly disheartening thread". Complaints against current agile match what agile itself complained about 25 years ago: making people fungible, Taylorism, micromanagement, empty ceremony.*
+
 
 ## By others
 
@@ -166,6 +174,10 @@ https://www.linkedin.com/pulse/participative-design-democracy-trond-hjorteland/
 Agile Maxims - Woody Zuill, 13 August 2022  
 https://twitter.com/WoodyZuill/status/1558480405258309632  
 *Woody Zuill's eight Agile Maxims*
+
+Agile is a disaster today! - Tom Gilb, 1 September 2022  
+https://www.youtube.com/watch?v=KKTwsl7oD7U  
+*In this short video Tom Gilb says that agile has fallen into disrepute and is performing only slightly better than waterfall. Even worse, we've accepted this as normal. His solution is to study successful projects and then do projects more like that.*
 
 A Patchwork of Contradictions and Confusions: Inside the Software Industry - Merrelyn Emery, January 2023
 https://www.socialsciencethatactuallyworks.com/_files/ugd/d59011_f069e39dfe3a4fe6b867244880c2ba29.pdf  
