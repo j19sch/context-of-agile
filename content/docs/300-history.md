@@ -29,6 +29,11 @@ The Winter Getaway That Turned the Software World Upside Down - Caroline Mimbs N
 https://www.theatlantic.com/technology/archive/2017/12/agile-manifesto-a-history/547715/  
 *Article about how the Agile Manifesto came about. Contains reflections on Agile by several of the Manifesto's co-authors at the end.*
 
+Pictures and notes from the Agile Manifesto Meeting - Alistair Cockburn, 27 March 2018  
+https://twitter.com/TotherAlistair/status/978413240182034432  
+https://www.facebook.com/TotherAlistair/posts/10156214284634035  
+*Pictures and notes from the Agile Manifesto Meeting, shared by Alistair Cockburn. Pictures owned by Ward Cunningham.*
+
 The Agile Manifesto: History and Evolution With Co-Authors Arie van Bennekum and James Grenning, 2019  
 https://www.youtube.com/watch?v=0fDhSwN2YVw  
 *Interview with Arie van Bennekum and James Grenning about why they decided to go to Snowbird, their experiences in software development before and after the Manifesto, how to adopt an agile way of working, and the future of agile.*
@@ -62,6 +67,12 @@ https://www.jamesshore.com/v2/books/aoad2/what_is_agile
 The 90's context of agile phrases - Steve Cooper, 28 November 2021  
 https://twitter.com/stevecooperorg/status/1464858673604407300  
 *Steve Cooper clarifies the 90's context of the Agile values: Jackson structured programming, 500-page detailed specs, wall-covering Gantt charts.*
+
+The second Agile Manifesto meeting, November 2001 at the OOPLSA conference - Brian Marick, 15 March 2023  
+https://mstdn.social/@marick/110024173719448290  
+*Brian Marick reflects on the second Agile Manifesto meeting, November 2001 at the OOPLSA conference, an enormously botched opportunity, because the co-authors were too damn alpha-male-ish to ever agree again. He also shares the first Agile Manifesto had gone similarly, had not a few people split off and came back with the https://agilemanifesto.org/ in something close to its current form.*
+
+
 
 ## History of Agile methodologies
 New Directions on Agile Methods: A Comparative Analysis - Pekka Abrahamsson, Juhani Warsta, Mikko T. Siponen and Jussi Ronkainen, 2003
