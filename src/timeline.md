@@ -1,10 +1,3 @@
----
-title: "Timeline"
-weight: 200
-date: 2021-02-14T09:39:11+01:00
-draft: false
----
-
 # Timeline
 
 *Disclaimer*: This timeline is a work-in-progress and as such does not present a balanced view.
@@ -115,3 +108,4 @@ The list of sources can be found on the [Sources page](/docs/sources/).
 
 ### 2021
 - Oct: The Art of Agile Development, 2nd Edition by James Shore
+

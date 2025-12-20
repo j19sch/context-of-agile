@@ -1,10 +1,4 @@
----
-title: "Context of Agile"
-date: 2021-02-13T16:56:11+01:00
-draft: false
----
-
-# Context of Agile
+# About 'Context of Agile'
 
 On February 11-13 2001 seventeen people got together in Snowbird, Utah (USA) and from that meeting the [Manifesto for Agile Software Development](https://agilemanifesto.org/) emerged. They recount some of the history of the creation of the manifesto [here](https://agilemanifesto.org/history.html).
 
