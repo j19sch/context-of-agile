@@ -1,6 +1,6 @@
 # Summary
 
-[Context of Agile](./context-of-agile.md)
+[Context of Agile](./README.md)
 
 ---
 
@@ -15,4 +15,4 @@
 
 ---
 
-[Sources](./sources.md)
+[References](./references.md)
