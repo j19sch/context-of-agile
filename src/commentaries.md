@@ -177,3 +177,7 @@ __A Patchwork of Contradictions and Confusions: Inside the Software Industry - M
 <https://www.linkedin.com/pulse/agile-working-industry-patchwork-contradictions-trond-hjorteland> (article by Trond Hjorteland, 31 March 2023)  
 <https://podcast.oddly-influenced.dev/episodes/trond-hjorteland-on-a-radical-approach-to-organizational-transformation> (podcast interview with Trond Hjorteland, 10 April 2023)  
 *Study using as its framework open systems theory (OST) to research what is going on inside the software industry. Its conclusion is that the software industry is a conglomeration of strange combinations of high and low supervision, coordination and control. These uneasy combinations have, therefore, generally not produced well functioning organization either at the operator or managerial levels. After over 20 years of agile, this study shows that agile has failed to produce a coherent industry or sustainable organizations.*
+
+__Agile’s Great Schism - Joe Fecarotta, 22 February 2024__  
+<http://virtualagilecoach.com/agiles-great-schism>  
+*Joe Fecarotta argues that we’ve lost our common story and beliefs as the agile community grew larger larger. We need to find new ways to align across the agile world.*
