@@ -178,6 +178,14 @@ __A Patchwork of Contradictions and Confusions: Inside the Software Industry - M
 <https://podcast.oddly-influenced.dev/episodes/trond-hjorteland-on-a-radical-approach-to-organizational-transformation> (podcast interview with Trond Hjorteland, 10 April 2023)  
 *Study using as its framework open systems theory (OST) to research what is going on inside the software industry. Its conclusion is that the software industry is a conglomeration of strange combinations of high and low supervision, coordination and control. These uneasy combinations have, therefore, generally not produced well functioning organization either at the operator or managerial levels. After over 20 years of agile, this study shows that agile has failed to produce a coherent industry or sustainable organizations.*
 
-__Agile’s Great Schism - Joe Fecarotta, 22 February 2024__  
+__Agile's Great Schism - Joe Fecarotta, 22 February 2024__  
 <http://virtualagilecoach.com/agiles-great-schism>  
 *Joe Fecarotta argues that we’ve lost our common story and beliefs as the agile community grew larger larger. We need to find new ways to align across the agile world.*
+
+__Agile As a Micromanagement Tool - Murat Guller, 24 January 2024__  
+<https://muromuro.substack.com/p/agile-as-a-micromanagement-tool>  
+*Murat Guller argues that Agile seems to devolve into a micromanagement tool, especially under clueless management who don't have any proper technical background. Also, Agile’s championing of the constant intermingling between business and engineering people usually results in the business people dominating the engineering folks. He concluded by saying that the best software organizations are those that implement just the essential development processes, and nothing more.*
+
+__Beyond Agile - Murat Guller, 20 March 2024__  
+<https://muromuro.substack.com/p/beyond-agile>  
+*As a follow-up to his "Agile As a Micromanagement Tool" Murat Guller summarizes how we can improve upon the Agile methodology and develop software in a better way. In his opinion all you need is a lightweight incremental/iterative Development process.*
