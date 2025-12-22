@@ -193,3 +193,7 @@ __Agile As a Micromanagement Tool - Murat Guller, 24 January 2024__
 __Beyond Agile - Murat Guller, 20 March 2024__  
 <https://muromuro.substack.com/p/beyond-agile>  
 *As a follow-up to his "Agile As a Micromanagement Tool" Murat Guller summarizes how we can improve upon the Agile methodology and develop software in a better way. In his opinion all you need is a lightweight incremental/iterative Development process.*
+
+__Random musings on the Agile Manifesto - Dave Nicolette, 8 April 2024__  
+<https://neopragma.com/2024/04/random-musings-on-the-agile-manifesto/>  
+*Dave Nicolette reflects on how the Manifesto was written by middle-class white males raised in a West European or North American (i.e. indivdualistic) cultural context. Due to that context there was a need to write a Manifesto that comes down to that "people ought to work in a way that is natural for human beings." He also says that a few of the authors of the Manifesto have made themselves into hero-gods of Agile, behaving inconsistently with the values and principles they wrote into the Agile Manifesto.*
