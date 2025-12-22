@@ -75,6 +75,10 @@ __Agile revisited - Dan North, 2015-2016__
 <https://www.youtube.com/watch?v=iFLBG_bilrg> (GOTO Copenhagen, October 2016, better audio)  
 *Dan North recounts the history of Agile from the 1990s to the 2010s and argues that the next step for Agile is to review the premise that lead to Agile in the first place, i.e. Lean operations. He closes by sharing an updates version of the Agile Manifesto.*
 
+__Agility should pay attention to Sociology - Romeu Moura, 4 May 2018__  
+<https://medium.com/@Romeu/agility-should-pay-attention-to-sociology-b671fd056933>  
+*Romeu Moura reflects on how Bourdieu’s social theory (more specifically Symbolic Violence, Hexis and Cultural capital) applies to the methods we use to create software today. He concludes there is a need for safety, but that our current approaches are extremely naïve about how achievable that safety is and to what degree of safety.*
+
 __The Power in Agile - Sarah Mei, 14 July 2018__  
 <https://www.youtube.com/watch?v=YL-6RCTywbc>  
 *Critical examination of how the lack of diversity among the authors of the Agile Manifesto resulted in ignoring power dynamics and what that means for a practice like pair programming*
