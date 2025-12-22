@@ -6,6 +6,10 @@ __History: The Agile Manifesto - Jim Highsmith, 2001__
 <https://agilemanifesto.org/history.html>  
 *History page on the Agile Manifesto site*
 
+__Agile Manifesto Feb 2001 - Jon Kern, 2018, 2024__  
+<https://www.flickr.com/photos/jonkyonthespot/albums/72157694973541365/>  
+*Pictures from a gathering of software development practitioners of "lightweight" processes atop Snowbird, Utah.*
+
 __How I saved Agile and the Rest of the World - Alistair Cockburn, 19 May 2016__  
 <https://web.archive.org/web/20170626102447/alistair.cockburn.us/How+I+saved+Agile+and+the+Rest+of+the+World>  
 *Alistair Cockburn describes how the Agile Manifesto was the product of 17 people from different schools and backgrounds. The addition or removal of a single person would have resulted in a different manifesto.*
