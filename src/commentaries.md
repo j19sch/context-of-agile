@@ -48,6 +48,8 @@ __Complaints against agile match what agile complained about 25 years ago - Bria
 
 ## By others
 
+### 2010s
+
 __Manifesto for Half-Arsed Agile Software Development - Kerry Buckley, August 2010__  
 <http://www.halfarsedagilemanifesto.org/>  
 *Manifesto by Kerry Buckley that parodies how enterprise companies tend to adopt Agile, i.e. not truly.*
@@ -102,6 +104,8 @@ __AgileKillsKittens (or Agile In Their Own Words: The Problem With Agile & Scrum
 __Why Don’t We Just Call Agile What It Is: Feminist - Hanna Thomas Uose, 3 September 2019__  
 <https://medium.com/@Hanna.Thomas/why-dont-we-just-call-agile-what-it-is-feminist-8bdd9193edba>  
 *Hanna Thomas Uose argues that we should not only look at tech and manufacturing companies when it comes to Lean-Agile. The Agile Manifesto is inherently subversive, anti-authoritarian, and feminist. The Lean-Agile principles of experimentation, of collaboration, of support and iteration have been a part of progressive social movements since before the Manifesto. In this sense, successful organisations aren’t ones that adopt an 'Agile mindset'. Successful organisations are ones that adopt a feminist, queer, anti-establishment, progressive mindset - one that is flexible, experimental, pushes boundaries, self-organises, and acts in service of community.*
+
+### 2020s
 
 __Agile as a Zombie...Noun - Charles Lambdin, 27 January 2020__  
 <https://charleslambdin.com/2020/01/27/agile-as-a-zombienoun/>  
