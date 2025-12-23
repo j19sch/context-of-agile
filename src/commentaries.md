@@ -33,6 +33,10 @@ __Nothing useful to say about the current relevance of the movement called Agile
 <https://twitter.com/marick/status/1499905649970397189>  
 *Brian Marick announcing that he has nothing useful to say about the current relevance of the movement called Agile, because he hasn't worked with a programming team for about 10 years. He does encourage those who'd try to recover its original spirit.*
 
+__You Won't Believe What These Agile Founders Think About Today's 'Agile'! - Brett Maytom, 24 February 2023__  
+<https://web.archive.org/web/20230227090008/https://blog.womplers.com/p/you-wont-believe-what-these-agile>  
+*Brett Maytom collected 25 quotes (with references!) from the authors of the Manifesto about Agile spanning a period from 2001 to 2016. As you can imagine they're quite critical of what has become of Agile.*
+
 __Waterfall Over Agile In 2023??? - Kent Beck and David Farley, 14 May 2023__  
 <https://www.youtube.com/watch?v=J4ihLROXzPk>  
 *Kent Beck and David Farley discuss why waterfall still persists and is perhaps even making a comeback. The power structures haven't changed. The fiction of "just doing it right the first time" is too attractive.*
