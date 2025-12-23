@@ -201,3 +201,7 @@ __Beyond Agile - Murat Guller, 20 March 2024__
 __Random musings on the Agile Manifesto - Dave Nicolette, 8 April 2024__  
 <https://neopragma.com/2024/04/random-musings-on-the-agile-manifesto/>  
 *Dave Nicolette reflects on how the Manifesto was written by middle-class white males raised in a West European or North American (i.e. indivdualistic) cultural context. Due to that context there was a need to write a Manifesto that comes down to that "people ought to work in a way that is natural for human beings." He also says that a few of the authors of the Manifesto have made themselves into hero-gods of Agile, behaving inconsistently with the values and principles they wrote into the Agile Manifesto.*
+
+__New manifesto for software developers - Einar W. Høst, 5 August 2025__  
+<https://mastodon.social/@einarwh/114977205270770133>  
+*"New manifesto for software developers: VALUING THINGS ON THE LEFT MORE over VALUING THINGS ON THE RIGHT MORE. ...that is, while there is value in valuing things on the right more, we value valuing things on the left more more."*
