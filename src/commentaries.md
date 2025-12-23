@@ -2,6 +2,10 @@
 
 ## By one of the authors
 
+__We Tried Baseball and It Didn't Work - Ron Jeffries, 2 May 2006__  
+<https://ronjeffries.com/xprog/articles/jatbaseball/>  
+*Ron Jeffries describes how a group of people tried baseball after 'fixing' some of the rules to come to the conclusion that even with all these improvements, the game is no fun at all. "We tried baseball, and it didn’t work."*
+
 __Artisanal Retro-Futurism Team-Scale Anarcho-Syndicalism - Brian Marick, 15-16 June 2009__  
 <https://www.youtube.com/watch?v=T5yv-WcQ4wY> (audio improves at 3:20 and again at 15:15)  
 <http://arxta.net/explanation.html>  
