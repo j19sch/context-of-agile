@@ -7,4 +7,4 @@ description = "Resources related to the history of Agile software development"
 [output.html]
 no-section-label = true
 git-repository-url = "https://github.com/j19sch/context-of-agile"
-cname = "context-of-agile.org"
+# cname = "context-of-agile.org"
